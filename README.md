@@ -11,7 +11,7 @@ This Botcamp runs about 4 months, 10 sprints.
 - Statistics
 - Machine Learning
 - Website with Wordpress
-- Pyhton
+- Pyhton for Data Analysis
 - Dashboard
 
 I love `R programming`. (inline code)
