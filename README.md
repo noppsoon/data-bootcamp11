@@ -1,7 +1,7 @@
 # Data-bootcamp11
 Data Science Bootcamp Projects
 
-This Botcamp runs about 4 months, 10 sprints.
+This Bootcamp runs about 4 months, 10 sprints.
 
 - Google sheets
 - Database
