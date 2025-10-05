@@ -14,8 +14,6 @@ This Botcamp runs about 4 months, 10 sprints.
 - Pyhton for Data Analysis
 - Dashboard
 
-I love `R programming`. (inline code)
-
 ## Code Block
 ``` sql
 SELECT "hello world" FROM boothcamp
