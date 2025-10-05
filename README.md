@@ -7,7 +7,7 @@ This Botcamp runs about 4 months, 10 sprints.
 - Database
 - R Programming
 - Data Transformation
-- DAta Visualization
+- Data Visualization
 - Statistics
 - Machine Learning
 - Website with Wordpress
